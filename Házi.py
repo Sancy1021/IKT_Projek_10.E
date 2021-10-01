@@ -1,0 +1,5 @@
+Marka = input('Milyen a Markaja ')
+Szin =  input('Milyen a Szine')
+Lakhely = int(input('Harsány')) 
+Hobbi = float(input('kegepez'))
+print('Marka' + 'Szin' + 'Lakhely' + 'Hobbi' )

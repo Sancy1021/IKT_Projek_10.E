@@ -1,0 +1,5 @@
+Vezeteknev = input(' A te Vezetekneved ')
+Keresztnev = input(' A te Kereszt neved ')
+print('  A te Vezetekneved  ' ,Vezeteknev, '  A te Keresztneved  '  ,Keresztnev,    )
+Ev =int(input( ' Hány éves vagy ' ))
+print('Te', 2021-Ev,' ben születél ' )

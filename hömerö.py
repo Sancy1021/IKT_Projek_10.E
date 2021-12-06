@@ -10,3 +10,5 @@ def homerseglet(c):
 
 for x in reversed (range (-20,121,20)):
     print(x,"c",homerseglet(x))
+
+print(homerseglet(int(input(" Most hány c fok van? "))))

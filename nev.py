@@ -4,8 +4,9 @@ from importlib.machinery import all_suffixes
 while True:
         
 
-        name=input(' Add meg a nevet ')
-            
+        name=input(' Add meg az elso nevet ')
+        name2=input('Add meg a masodik nevet ')
+        name3=input('Add meg a harmadik nevet ')   
 
         if name == 'Zsidó':
             print('elso nev a nev jo')

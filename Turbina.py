@@ -1,7 +1,3 @@
-
-from cmath import pi
-
-
 turbine_counter= 1
 all_turbines= 25
 turbine_power= 2000
